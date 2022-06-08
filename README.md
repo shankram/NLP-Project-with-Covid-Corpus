@@ -1,1 +1,1 @@
-# NLP-Project-with-Covid-Corpus
+# NLP Project with Covid Corpus
